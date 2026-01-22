@@ -49,10 +49,12 @@ Passionate about building **clean, maintainable code** and applying technical ex
 
 ## 📂 Projects
 
-### 1️⃣ ShopEase – Java Console E-Commerce Application
-- Console-based shopping app with **user authentication, product management, and billing**  
-- Built using **Core Java, OOP principles, and JDBC**  
-- Focused on **modular and efficient backend design**  
+#### 1️⃣ ShopEase – Java Console Shopping & Billing Application
+- Console-based **e-commerce application**  
+- Developed using **Core Java, OOP principles, and JDBC**  
+- Features **user authentication, product management, and billing**  
+- Focused on **clean, modular, and efficient backend design**
+
 
 ### 2️⃣ Smart Employee Portal – Spring Boot Web Application
 - CRUD-based **employee management system**  
